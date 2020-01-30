@@ -12,8 +12,10 @@ header{
 }
 main{
     border: 1px solid black;
+    background-color: blue;
 }
 
 footer{
     border: 1px solid black;
+    background-color: red;
 }
